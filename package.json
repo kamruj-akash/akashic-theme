@@ -31,6 +31,11 @@
         "label": "Akashic Aurora",
         "uiTheme": "vs-dark",
         "path": "./themes/akashic-aurora.json"
+      },
+      {
+        "label": "Akashic Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/akashic-midnight.json"
       }
     ]
   }
