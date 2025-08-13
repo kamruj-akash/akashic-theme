@@ -1,85 +1,79 @@
-# 🌌 Akashic Theme Suite ✨
+<div align="center">
+
+# 🌌 **Akashic Theme Suite** ✨
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/kamruj-akash.akashic?style=for-the-badge&color=14B8A6)](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.akashic)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/kamruj-akash.akashic?style=for-the-badge&color=06B6D4)](https://marketplace.visualstudio.com/items?itemName=kamruj-akash.akashic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-A **modern, elegant, and vibrant** Visual Studio Code theme suite — inspired by the endless sky (_"Akash"_) and the dynamic colors of modern web development.
-
-Crafted with passion by **Kamruj Akash** to deliver a **comfortable** yet **eye-catching** coding experience.
-
----
-
-## 🎨 Theme Variants
-
-### 🌑 1. Akashic — _The Signature Dark_
-
-A perfectly balanced dark mode for **long coding sessions**.  
-Features a deep navy background with vibrant teal & purple highlights — inspired by the design of [kamruj.vercel.app](https://kamruj.vercel.app).
-
-![Akashic Theme Preview](https://github.com/kamruj-akash/akashic-theme/blob/main/ss/Akashic-Signature.png)
+**A premium, modern, and vibrant Visual Studio Code theme suite** — inspired by the vast sky (_"Akash"_) and the vivid colors of modern web development.
+Designed with love by **Kamruj Akash** to make your code look **stunning** and your eyes feel **comfortable**.
 
 ---
 
-### 🌌 2. Akashic Aurora — _The Vibrant Dark_
+</div>
 
-For developers who love **colorful vibes**.  
-Inspired by the **northern lights**, with neon-like pink, blue, and green highlights on a dark background — giving a **futuristic** feel.
+## 🎨 **Theme Variants**
 
-![Akashic Aurora Theme Preview](https://github.com/kamruj-akash/akashic-theme/blob/main/ss/Akashic-Aurora.png)
+<div align="center">
 
----
+| 🌑 **Akashic** <br> _The Signature Dark_                                                              | 🌌 **Akashic Aurora** <br> _The Vibrant Dark_                                                   | 🌅 **Akashic Daybreak** <br> _The Clean Light_                                                      |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Deep navy background with teal & purple highlights — **perfect for long coding sessions**.            | Neon-like pink, blue & green inspired by **northern lights**, for a **futuristic glow**.        | Soft off-white background with high-contrast text — **easy on the eyes**.                           |
+| ![Akashic Signature](https://github.com/kamruj-akash/akashic-theme/raw/main/ss/Akashic-Signature.png) | ![Akashic Aurora](https://github.com/kamruj-akash/akashic-theme/raw/main/ss/Akashic-Aurora.png) | ![Akashic Daybreak](https://github.com/kamruj-akash/akashic-theme/raw/main/ss/Akashic-Daybreak.png) |
 
-### 🌅 3. Akashic Daybreak — _The Clean Light_
-
-A **professional & eye-friendly light theme**.  
-Soft off-white background, high-contrast text, and signature teal accents for **maximum readability** without straining your eyes.
-
-![Akashic Daybreak Theme Preview](https://github.com/kamruj-akash/akashic-theme/blob/main/ss/Akashic-Daybreak.png)
+</div>
 
 ---
 
-## 🚀 Installation
+## 🚀 **Installation Guide**
 
-1. Open **Extensions** sidebar in VS Code.
-2. Search for **`Akashic Theme Suite`**.
-3. Click **Install**.
-4. Open Command Palette:
-   - **Windows/Linux:** `Ctrl + Shift + P`
-   - **Mac:** `⌘ + Shift + P`
-5. Select **`Preferences: Color Theme`**.
-6. Choose your favorite variant:
-   - `Akashic`
-   - `Akashic Aurora`
-   - `Akashic Daybreak`
-7. **Enjoy your new coding experience!** 💻
+1️⃣ Open **Extensions** in VS Code.
+2️⃣ Search for **`Akashic Theme Suite`**.
+3️⃣ Click **Install**.
+4️⃣ Open Command Palette:
+
+- **Windows/Linux:** `Ctrl + Shift + P`
+- **Mac:** `⌘ + Shift + P`
+  5️⃣ Select **`Preferences: Color Theme`**.
+  6️⃣ Pick your variant:
+- `Akashic`
+- `Akashic Aurora`
+- `Akashic Daybreak`
+  7️⃣ 💖 **Enjoy your new coding vibe!**
 
 ---
 
-## 👨‍💻 About the Author
+## 👨‍💻 **About the Author**
 
-**Kamruj Akash** — Passionate web developer & designer, dedicated to building **efficient** and **delightful** developer experiences.
+**Kamruj Akash** — Creative web developer & theme designer passionate about building **beautiful** and **functional** developer experiences.
 
-🌐 [Website](https://kamruj.vercel.app)  
-💻 [GitHub](https://github.com/kamruj-akash)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamruj-akash/)  
+💎 **Connect with me**
+🌐 [Website](https://kamruj.vercel.app)
+💻 [GitHub](https://github.com/kamruj-akash)
+🔗 [LinkedIn](https://www.linkedin.com/in/kamruj-akash/)
 📧 [Email](mailto:source.akash@gmail.com)
 
 ---
 
-## 🤝 Contributing & Feedback
+## 🤝 **Contribute & Feedback**
 
-This is an **open-source project** — contributions are welcome!  
-If you spot an issue or have a suggestion, please **[open an issue](https://github.com/kamruj-akash/akashic-theme/issues)** or **submit a pull request**.
-
----
-
-## 📜 License
-
-Licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
+This project is **open-source** and always improving!
+💌 [Submit feedback or report an issue](https://github.com/kamruj-akash/akashic-theme/issues)
+🔧 [Fork & contribute](https://github.com/kamruj-akash/akashic-theme)
 
 ---
 
-> **"Happy Coding!"** ❤️  
-> May your code be **bug-free** and your screen always **beautiful**.
+## 📜 **License**
+
+Licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+> 💖 **"Happy Coding!"**
+> May your code be **bug-free** and your editor always look **beautiful**.
+
+</div>
