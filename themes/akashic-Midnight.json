@@ -50,19 +50,19 @@
     {
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#A78BFA"
+        "foreground": "#FFCC00"
       }
     },
     {
       "scope": ["constant.numeric", "constant.language.boolean"],
       "settings": {
-        "foreground": "#8B5CF6"
+        "foreground": "#FF7B72"
       }
     },
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#14B8A6"
+        "foreground": "#FFA7C4"
       }
     },
     {
@@ -94,8 +94,7 @@
     {
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#8B5CF6",
-        "fontStyle": "bold"
+        "foreground": "#FFA7C4"
       }
     },
     {

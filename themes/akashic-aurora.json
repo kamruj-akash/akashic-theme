@@ -75,8 +75,7 @@
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#F472B6",
-        "fontStyle": "bold"
+        "foreground": "#F472B6"
       }
     },
     {
@@ -108,8 +107,7 @@
     {
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#F472B6",
-        "fontStyle": "semi-bold"
+        "foreground": "#F472B6"
       }
     },
     {

@@ -2,7 +2,7 @@
   "name": "akashic",
   "displayName": "AKashic Theme",
   "description": "A modern and elegant dark theme inspired by the sky and personal branding of Kamruj Akash.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "kamruj-akash",
   "icon": "icon.png",
   "repository": {
@@ -18,14 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "AKashic Signature",
+        "label": "Akashic",
         "uiTheme": "vs-dark",
-        "path": "./themes/Akashic-color-theme.json"
-      },
-      {
-        "label": "Akashic Daybreak",
-        "uiTheme": "vs",
-        "path": "./themes/akashic-daybreak.json"
+        "path": "./themes/akashic-color-theme.json"
       },
       {
         "label": "Akashic Aurora",
@@ -33,9 +28,19 @@
         "path": "./themes/akashic-aurora.json"
       },
       {
+        "label": "Akashic Daybreak",
+        "uiTheme": "vs",
+        "path": "./themes/akashic-daybreak.json"
+      },
+      {
         "label": "Akashic Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/akashic-midnight.json"
+      },
+      {
+        "label": "Akashic Cobalt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/akashic-cobalt.json"
       }
     ]
   }
